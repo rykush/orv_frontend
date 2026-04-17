@@ -1,4 +1,4 @@
-const targetDate = new Date('2025-10-20T00:00:00').getTime();
+const targetDate = new Date('2026-06-25T00:00:00').getTime();
 
 function getDeclension(number, one, two, five) {
     let n = Math.abs(number);
